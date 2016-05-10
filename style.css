@@ -17,7 +17,7 @@ body {
 }
 #navigation {
   width: 80px; 
-  
+  float: left;
 }
 #main {
   width: 600px;
