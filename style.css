@@ -1,5 +1,6 @@
 body {
   background-color: #EEEEEE;
+  font: Helvetica, Arial, sans-serif;
 }
 #container {
   background-color: white;
@@ -11,6 +12,7 @@ body {
   background-color: #66CCFF;
   color: white;
   text-align: center;
+  padding: 10px;
 }
 #content {
   padding: 10px 10px 10px 10px;
@@ -22,4 +24,30 @@ body {
 #main {
   width: 600px;
   float: right;
+}
+#footer
+{
+  clear: both;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+  text-align: center;
+}
+.selected
+{
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none; 
+  color: orange;
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+h1 h2 h3 {
+  margin: 0;
 }
