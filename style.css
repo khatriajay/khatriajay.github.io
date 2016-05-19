@@ -18,11 +18,11 @@ body {
   padding: 10px 10px 10px 10px;
 }
 #navigation {
-  width: 80px; 
+  width: 100px; 
   float: left;
 }
 #main {
-  width: 600px;
+  width: 800px;
   float: right;
 }
 #footer
