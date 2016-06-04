@@ -19,7 +19,7 @@ body {
 {
   color: white;
   text-align: center;
-  position: relative;
+  position: absolute;
   bottom: 0;
 }
 .selected
