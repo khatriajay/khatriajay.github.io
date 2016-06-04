@@ -14,6 +14,10 @@ body {
 #content {
   padding: 10px 10px 10px 10px;
 }
+#content{
+  color: white;
+  text-align:center;
+}
 #main {
   width: 800px;
   float: right;
