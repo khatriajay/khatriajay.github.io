@@ -9,10 +9,7 @@ body {
 #header {
   color: white;
   text-align: center;
-  padding: 10px;
 }
-#content {
-  padding: 10px 10px 10px 10px;
 }
 
 #main {
@@ -21,10 +18,13 @@ body {
 }
 #footer
 {
-  clear: both;
-  padding: 10px;
   color: white;
   text-align: center;
+  position: fixed;
+  width: 200px;
+  left: 50%;
+  bottom: 15px;
+  margin-left: 150px;
 }
 .selected
 {
