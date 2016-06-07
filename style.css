@@ -10,7 +10,10 @@ body {
   color: white;
   text-align: center;
 }
-
+#header ul {
+  display: inline;
+  list-style-type: nonee;
+}
 #main {
   color: white;
   text-align:center;
@@ -24,4 +27,8 @@ body {
 a {
   text-decoration: none; 
   color: orange;
+}
+
+.selected {
+  font-weight: bold;
 }
