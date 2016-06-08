@@ -13,7 +13,9 @@ body {
 .header ul {
   display: inline;
   list-style-type: none;
-   margin: 0 0 5px 0;
+}
+.header a {
+  margin: 0 5px 0 0;
 }
 .main {
   color: white;
