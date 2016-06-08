@@ -13,6 +13,7 @@ body {
 .header ul {
   display: inline;
   list-style-type: none;
+   margin: 0 0 5px 0;
 }
 .main {
   color: white;
@@ -27,7 +28,6 @@ body {
 a {
   text-decoration: none; 
   color: #ffa500;
-  margin: 0 0 5px 0;
 }
 a:hover {
   color: #ee7500;
