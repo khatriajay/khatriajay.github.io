@@ -12,7 +12,7 @@ body {
 }
 #header ul {
   display: inline;
-  list-style-type: nonee;
+  list-style-type: none;
 }
 #main {
   color: white;
