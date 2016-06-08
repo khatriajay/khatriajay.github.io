@@ -35,3 +35,8 @@ a:hover {
 .selected {
   text-decoration: underline;
 }
+
+li 
+{
+  margin: 0 0 3px 0;
+}
