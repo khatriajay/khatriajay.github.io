@@ -29,7 +29,7 @@ a {
   color: #ffa500;
 }
 a:hover {
-  font-weight: bold;
+  color #ff1000;
 }
 
 .selected {
