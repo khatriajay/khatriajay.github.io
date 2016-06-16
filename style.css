@@ -19,7 +19,7 @@ body {
 }
 .main {
   color: white;
-  text-align:center;
+  text-align:justify;
 }
 .footer
 {
@@ -37,8 +37,4 @@ a:hover {
 
 .selected {
   text-decoration: underline;
-}
-p 
-{
-  text-align: center;
 }
