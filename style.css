@@ -38,3 +38,6 @@ a:hover {
 .selected {
   text-decoration: underline;
 }
+.images{
+  width: 50em;
+}
