@@ -19,7 +19,10 @@ body {
 }
 .main {
   color: white;
-  text-align:justify;
+  text-align:center;
+}
+.main p {
+  text-align: justify;
 }
 .footer
 {
