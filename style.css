@@ -38,4 +38,7 @@ a:hover {
 .selected {
   text-decoration: underline;
 }
-
+p 
+{
+  text-align: center;
+}
